@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc43c8e1afdedf4d91178d24a45c307, type: 3}
+  m_Name: Relogio
+  m_EditorClassIdentifier: Assembly-CSharp::AtividadeInfo
+  nome: "Relogio - Que horas s\xE3o?"
+  descricao: Coloque os ponteiros do relogio no horario correto
+  cena: Atividade.RelogioAnalogico
+  habilidades: 
+  imagem: {fileID: 3559763711832780467, guid: d221b498a0e92754290c9b39ea61a015, type: 3}

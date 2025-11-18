@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc43c8e1afdedf4d91178d24a45c307, type: 3}
+  m_Name: GeometriaBasica
+  m_EditorClassIdentifier: Assembly-CSharp::AtividadeInfo
+  nome: Geometria
+  descricao: "Descri\xE7\xE3o Geometria"
+  cena: Atividade.GeometriaBasica.Iniciar
+  habilidades: salve
+  imagem: {fileID: 9194623659798776565, guid: 0d4f2a8799c5a9f419914b617360bfd3, type: 3}

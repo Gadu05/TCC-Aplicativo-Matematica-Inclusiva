@@ -1,0 +1,4 @@
+repository "TCC Aplicativo Matematica Inclusiva/Aplicativo Matematica Inclusiva@4673243021583@cloud"
+  path "/"
+    br "/main"
+    co "/main"
