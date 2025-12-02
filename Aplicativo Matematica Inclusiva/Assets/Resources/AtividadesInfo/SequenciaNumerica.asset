@@ -13,7 +13,21 @@ MonoBehaviour:
   m_Name: SequenciaNumerica
   m_EditorClassIdentifier: Assembly-CSharp::AtividadeInfo
   nome: Siga a sequencia numerica
-  descricao: Descricao Sequencia
+  descricao: "Atividade interativa em que o estudante organiza n\xFAmeros em ordem
+    crescente, refor\xE7ando a compreens\xE3o da sequ\xEAncia num\xE9rica."
   cena: Atividade.SequenciaNumerica
-  habilidades: 
+  resumo: "A atividade consiste na organiza\xE7\xE3o de n\xFAmeros em ordem crescente,
+    promovendo o racioc\xEDnio l\xF3gico e o entendimento da sequ\xEAncia natural
+    dos n\xFAmeros por meio de desafio simples e interativos."
+  objetivos: "\u2022 Favorecer a compreens\xE3o da ordem num\xE9rica e do sistema
+    de numera\xE7\xE3o decimal.\r\n\u2022 Desenvolver habilidades de identifica\xE7\xE3o
+    e constru\xE7\xE3o de sequ\xEAncias crescentes.\r\n\u2022 Estimular o pensamento
+    l\xF3gico e a capacidade de organizar informa\xE7\xF5es num\xE9ricas."
+  habilidades: "\u2022 Manipula\xE7\xE3o de elementos num\xE9ricos para organiz\xE1-los
+    em ordem crescente.\r\n\u2022 Montagem de sequ\xEAncias completas.\r\n\u2022
+    Reconhecimento de padr\xF5es simples relacionados \xE0 progress\xE3o natural
+    dos n\xFAmeros."
+  metodologias: "\u2022 Feedback imediato para confirma\xE7\xE3o das hip\xF3teses
+    e corre\xE7\xE3o de erros.\r\n\u2022 Organiza\xE7\xE3o sequencial de desafios
+    com baixa complexidade."
   imagem: {fileID: 100294936430145533, guid: 80f18ece7d442eb42be15c7548fe2bf0, type: 3}

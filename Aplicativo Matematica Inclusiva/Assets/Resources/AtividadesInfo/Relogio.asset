@@ -13,7 +13,24 @@ MonoBehaviour:
   m_Name: Relogio
   m_EditorClassIdentifier: Assembly-CSharp::AtividadeInfo
   nome: "Relogio - Que horas s\xE3o?"
-  descricao: Coloque os ponteiros do relogio no horario correto
+  descricao: "Simula\xE7\xE3o de rel\xF3gio anal\xF3gico que possibilita ao aluno
+    praticar a leitura de horas e minutos, favorecendo a compreens\xE3o inicial das
+    unidades de tempo."
   cena: Atividade.RelogioAnalogico
-  habilidades: 
+  resumo: "A atividade aborda a leitura de horas e minutos em rel\xF3gios anal\xF3gicos
+    por meio de uma simula\xE7\xE3o interativa. Os alunos ajustam ou interpretam
+    a posi\xE7\xE3o dos ponteiros, desenvolvendo a compreens\xE3o das unidades de
+    tempo e sua rela\xE7\xE3o, em um ambiente simples e did\xE1tico."
+  objetivos: "\u2022 Desenvolver habilidades de leitura de horas e minutos em rel\xF3gios
+    anal\xF3gicos.\n\u2022 Favorecer a compreens\xE3o da rela\xE7\xE3o entre horas
+    e minutos como unidades de medida temporal.\n\u2022 Introduzir no\xE7\xF5es iniciais
+    de marca\xE7\xE3o e interpreta\xE7\xE3o de intervalos simples de tempo."
+  habilidades: "\u2022 Identifica\xE7\xE3o de hor\xE1rios representados no rel\xF3gio
+    anal\xF3gico.\n\u2022 Ajuste dos ponteiros \xE0s horas e minutos solicitados.\n\nExerc\xEDcios
+    b\xE1sicos envolvendo compreens\xE3o de hor\xE1rios do cotidiano."
+  metodologias: "\u2022 Simula\xE7\xE3o de um rel\xF3gio anal\xF3gico interativo
+    desenvolvido em Unity.\n\u2022 Manipula\xE7\xE3o direta dos ponteiros, permitindo
+    ao aluno praticar a constru\xE7\xE3o do hor\xE1rio.\n\u2022 Feedback ap\xF3s
+    a defini\xE7\xE3o do hor\xE1rio.\n\u2022 Foco em desafios simples, sem c\xE1lculos
+    de intervalos complexos ou etapas progressivas."
   imagem: {fileID: 3559763711832780467, guid: d221b498a0e92754290c9b39ea61a015, type: 3}

@@ -15,11 +15,13 @@ public class AtividadesManager : MonoBehaviour {
     [SerializeField]
     private GameObject painelDetalhes;
     [SerializeField]
+    private TMP_Text txtResumo;
+    [SerializeField]
     private TMP_Text txtObjetivos;
     [SerializeField]
-    private TMP_Text txtObjetivos2;
+    private TMP_Text txtHabilidades;
     [SerializeField]
-    private TMP_Text txtObjetivos3;
+    private TMP_Text txtMetodologias;
 
     private AtividadeInfo[] listaAtividades;
     
@@ -61,7 +63,10 @@ public class AtividadesManager : MonoBehaviour {
             return;
         }
 
-        txtObjetivos.text = atividade.getDescricao();
+        txtResumo.text = atividade.getResumo();
+        txtObjetivos.text = atividade.getObjetivos();
+        txtHabilidades.text = atividade.getHabilidades();
+        txtMetodologias.text = atividade.getMetodologias();
 
         //txtTitulo.text = atividade.getNome();
         //txtDescricao.text = atividade.getDescricao();

@@ -13,7 +13,22 @@ MonoBehaviour:
   m_Name: GeometriaBasica
   m_EditorClassIdentifier: Assembly-CSharp::AtividadeInfo
   nome: Geometria
-  descricao: "Descri\xE7\xE3o Geometria"
+  descricao: "Conjunto de quest\xF5es simples voltadas \xE0 identifica\xE7\xE3o e
+    classifica\xE7\xE3o de figuras geom\xE9tricas b\xE1sicas, permitindo ao aluno
+    reconhecer formas e suas caracter\xEDsticas essenciais."
   cena: Atividade.GeometriaBasica.Iniciar
-  habilidades: salve
+  resumo: "Esta atividade apresenta quest\xF5es b\xE1sicas de identifica\xE7\xE3o
+    e classifica\xE7\xE3o de figuras geom\xE9tricas planas, como tri\xE2ngulos, quadrados
+    e c\xEDrculos."
+  objetivos: "\u2022 Introduzir conceitos fundamentais de identifica\xE7\xE3o e classifica\xE7\xE3o
+    de formas geom\xE9tricas planas.\r\n\u2022 Desenvolver a percep\xE7\xE3o visual
+    de formas b\xE1sicas.\r\n\u2022 Promover o reconhecimento de figuras e suas caracter\xEDsticas
+    por meio de associa\xE7\xE3o visual."
+  habilidades: "\u2022 Resolu\xE7\xE3o de quest\xF5es simples relacionadas \xE0 identifica\xE7\xE3o
+    de figuras geom\xE9tricas b\xE1sicas.\r\n\u2022 Sele\xE7\xE3o da figura correta
+    mediante descri\xE7\xE3o textual ou visual.\r\n\u2022 Compara\xE7\xE3o entre
+    formas elementares, como quadrados, tri\xE2ngulos e c\xEDrculos."
+  metodologias: "\u2022 Atividades estruturadas em formato de question\xE1rio interativo
+    com resposta direta.\r\n\u2022 \xCAnfase em reconhecimento visual de formas,
+    sem manipula\xE7\xE3o ou transforma\xE7\xE3o das figuras."
   imagem: {fileID: 9194623659798776565, guid: 0d4f2a8799c5a9f419914b617360bfd3, type: 3}
